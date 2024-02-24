@@ -1,0 +1,1 @@
+function smoothScroll(e,o){document.querySelector(e);var t=t.getBoundingClientRect()}smoothScroll(".services",1e3);
